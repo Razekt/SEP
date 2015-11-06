@@ -9,6 +9,6 @@
             <h1>Sistema de Elaboração de Provas</h1>
         </div>
         <p class="lead">Apenas o começo, um parágrafo com <code>class=lead</code>.</p>
-        <p><a href="<%= ResolveUrl("~/") %>Cadastro.aspx">Não possui cadastro, clique aqui!</a></p>
+        <p><a href="<%= ResolveUrl("~/") %>CadPessoas.aspx">Não possui cadastro, clique aqui!</a></p>
     </div>
 </asp:Content>

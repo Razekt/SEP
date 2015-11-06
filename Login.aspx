@@ -22,7 +22,7 @@
                 <strong>Erro!</strong> Login ou senha incorretos.
             </div>--%>
             <br />
-            <a href="<%= ResolveUrl("~/") %>Cadastro.aspx">Não possui acesso clique aqui para se cadastrar!</a>
+            <a href="<%= ResolveUrl("~/") %>CadPessoas.aspx">Não possui acesso clique aqui para se cadastrar!</a>
         </div>
     </div>
 </asp:Content>
